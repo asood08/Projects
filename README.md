@@ -12,8 +12,9 @@ As Communications Systems Lead, I manage a 9-member subteam developing hardware 
 More information on these PCBs and other work can be found in the UBC Sailbot Folder. Detailed descriptions are given in their respective Readme Files
 
 ### 📷 Images  
-![Sailbot PCB Placeholder](images/sailbot_pcb.png)  
-![Sailbot Enclosure Placeholder](images/sailbot_enclosure.png)  
+![Sailbot Placeholder](images/Sailbot.jpg)  
+![Sailbot PCB Placeholder](images/SAIL_V3_PCB.png)  
+![Sailbot Enclousre Placeholder](images/Wingsail_Enclosure.jpg) 
 
 ---
 
