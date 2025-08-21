@@ -44,8 +44,8 @@ As team lead, I guided a 6-member group to design and build a remote-controlled 
 Built during UBC’s Designathon, this personal project was a prototype line-tracking robot designed to serve food. The robot used Arduino with IR and sonar sensors for navigation, obstacle avoidance, and IR-based line tracking. I also implemented a Python script with a breadth-first search algorithm for pathfinding to optimize delivery routes to tables:contentReference[oaicite:3]{index=3}.  
 
 ### 📷 Images  
-![Server Robot Placeholder](images/Picture_of_prototype.jpg)  
-![Coin Picking Robot Placeholder](images/CAD_Server_Robot.jpg) 
+![Server Robot Placeholder](images/Picture_of_prototype.JPG)  
+![Coin Picking Robot Placeholder](images/CAD_Server_Robot.png) 
 
 ---
 
