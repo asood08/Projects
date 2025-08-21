@@ -1,0 +1,13 @@
+Added Component: Designator=J101(CN8_8X2_PADS)
+Added Pin To Net: NetName=NetC203_1 Pin=J101-7
+Added Pin To Net: NetName=GND Pin=J101-11
+Added Pin To Net: NetName=GND Pin=J101-13
+Added Pin To Net: NetName=NetJ101_14 Pin=J101-14
+Added Pin To Net: NetName=NetJ101_16 Pin=J101-16
+Added Member To Class: ClassName=Nucleo_connections Member=Component J101 CN8 CONN HDR 16POS
+Added Member To Class: ClassName=Data_PWR_Connectors Member=Component J705 691137710002
+Added Member To Class: ClassName=Data_PWR_Connectors Member=Component J706 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Data_PWR_Connectors Member=Component J707 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Data_PWR_Connectors Member=Component J708 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Data_PWR_Connectors Member=Component J709 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Data_PWR_Connectors Member=Component J710 B4B-XH-A(LF)(SN)

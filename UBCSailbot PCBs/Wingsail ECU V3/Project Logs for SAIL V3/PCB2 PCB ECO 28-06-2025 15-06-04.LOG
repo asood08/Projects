@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=GND Pin=J701-1
+Removed Pin From Net: NetName=NetD502_1 Pin=J701-2
+Removed Pin From Net: NetName=GND Pin=J703-1
+Removed Pin From Net: NetName=NetD301_1 Pin=J703-2
+Removed Pin From Net: NetName=GND Pin=J704-1
+Removed Pin From Net: NetName=12VIN Pin=J704-2
+Removed Pin From Net: NetName=NetJ702_2 Pin=U401-6
+Removed Pin From Net: NetName=NetJ702_1 Pin=U401-8
+Change Component Footprint: Designator=J701 Old Footprint=282837-2_TYC New Footprint=691137710002
+Change Component Footprint: Designator=J702 Old Footprint=282837-2_TYC New Footprint=691137710002
+Change Component Footprint: Designator=J703 Old Footprint=282837-2_TYC New Footprint=691137710002
+Change Component Footprint: Designator=J704 Old Footprint=282837-2_TYC New Footprint=691137710002
+Change Component Comment : Designator=J701 Old Comment=282837-2 New Comment=691137710002
+Change Component Comment : Designator=J702 Old Comment=282837-2 New Comment=691137710002
+Change Component Comment : Designator=J703 Old Comment=282837-2 New Comment=691137710002
+Change Component Comment : Designator=J704 Old Comment=282837-2 New Comment=691137710002
+Change Managed Component Library Link : Designator=J701 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D Old RevisionGUID= New RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD
+Change Managed Component Library Link : Designator=J702 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D Old RevisionGUID= New RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD
+Change Managed Component Library Link : Designator=J703 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D Old RevisionGUID= New RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD
+Change Managed Component Library Link : Designator=J704 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D Old RevisionGUID= New RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD
+Change component parameters: Designator = "J701" ("J701"); Footprint = "282837-2_TYC"; UniqueID = "\MXYQZTRK" ("\MXYQZTRK")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J702" ("J702"); Footprint = "282837-2_TYC"; UniqueID = "\TOIGYHMW" ("\TOIGYHMW")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J703" ("J703"); Footprint = "282837-2_TYC"; UniqueID = "\FDHMKIKT" ("\FDHMKIKT")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J704" ("J704"); Footprint = "282837-2_TYC"; UniqueID = "\PJHGQLJL" ("\PJHGQLJL")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=J715(691137710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12VIN Pin=D701-1
+Add Pin To Net: Unknown Pin: Pin J104-29
+Added Pin To Net: NetName=NetD502_1 Pin=J701-1
+Added Pin To Net: NetName=GND Pin=J701-2
+Added Pin To Net: NetName=NetD301_1 Pin=J703-1
+Added Pin To Net: NetName=GND Pin=J703-2
+Added Pin To Net: NetName=12VIN Pin=J704-1
+Added Pin To Net: NetName=GND Pin=J704-2
+Added Pin To Net: NetName=NetC101_2 Pin=J715-1
+Added Pin To Net: NetName=GND Pin=J715-2
+Added Pin To Net: NetName=NetJ702_1 Pin=U401-6
+Added Pin To Net: NetName=NetJ702_2 Pin=U401-8
+Added Member To Class: ClassName=Data_PWR_Connectors Member=Component J715 691137710002

@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.13">
+  <diagram name="Page-1" id="w8CgdCTqObcGgpUQYmHC">
+    <mxGraphModel dx="1426" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-1" target="0D3VCqtAZQnuZJERKfl_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-1" value="1.Read Robot Angle&lt;div&gt;2.Read Robot Coordinates&lt;/div&gt;&lt;div&gt;3.Read Robot Speed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-3" target="0D3VCqtAZQnuZJERKfl_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-3" value="Send the data to Laptop over BLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-5" target="0D3VCqtAZQnuZJERKfl_-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="945" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-5" value="On the Laptop: Process the data received and update the map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="162.5" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-7" target="0D3VCqtAZQnuZJERKfl_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-7" value="Update Laptop GUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="885" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-9" target="0D3VCqtAZQnuZJERKfl_-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-9" value="Send Desired Speed to Robot over BLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-10" target="0D3VCqtAZQnuZJERKfl_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-10" value="On GUI, Send Desired Robot Speed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-12" target="0D3VCqtAZQnuZJERKfl_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-12" value="while(Robot is mapping environment)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-14" target="0D3VCqtAZQnuZJERKfl_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-14" target="0D3VCqtAZQnuZJERKfl_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-14" value="If(Mapping Finished)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-15" target="0D3VCqtAZQnuZJERKfl_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-15" value="Update GUI such that the user knows that mapping is done" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="370" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-17" target="0D3VCqtAZQnuZJERKfl_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-17" value="Enable user movement input" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-24" target="0D3VCqtAZQnuZJERKfl_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-24" value="If Robot detects a new obstacle that was not on the map" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="885" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-26" target="0D3VCqtAZQnuZJERKfl_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-26" value="Update Map over BLE to account for the new object detected" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="380" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0D3VCqtAZQnuZJERKfl_-28" target="0D3VCqtAZQnuZJERKfl_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0D3VCqtAZQnuZJERKfl_-28" value="Feed the desired speed into the PID controller and output the required speed into the motors&lt;br&gt;&lt;br&gt;PID Controller will still use data from our sensors such as the IMU and IR sensors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="430" width="170" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

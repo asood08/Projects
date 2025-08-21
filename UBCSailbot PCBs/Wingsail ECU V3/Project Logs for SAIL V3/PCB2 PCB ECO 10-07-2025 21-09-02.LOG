@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetJ105_3 Pin=U203-1
+Change Component Footprint: Designator=J105 Old Footprint=5V_EXT New Footprint=4x2
+Added Pin To Net: NetName=GND Pin=J102-8
+Added Pin To Net: NetName=GND Pin=J104-5
+Added Pin To Net: NetName=GND Pin=J105-1
+Added Pin To Net: NetName=NetJ105_3 Pin=U203-4
+Added Pin To Net: NetName=NetJ105_5 Pin=J105-5
+Added Pin To Net: NetName=NetJ105_5 Pin=U203-1
+Added Net: Name=NetJ105_5

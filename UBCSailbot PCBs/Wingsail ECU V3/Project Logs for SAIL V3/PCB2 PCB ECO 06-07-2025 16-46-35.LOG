@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=C505-1
+Removed Pin From Net: NetName=NetC505_2 Pin=C505-2
+Change Component Footprint: Designator=C505 Old Footprint=FP-RAD-TH-D_12_5_0_5-L_20-MFG New Footprint=PNSC-CAP-10x20-P2
+Change Managed Component Library Link : Designator=C505 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D96104A1-74BE-4D15-8582-07679D23A270 New ItemGUID=A997B181-7DBC-4C76-A949-669702F41FA4 Old RevisionGUID=B75D230D-AEDD-48B1-921C-53D15760820E New RevisionGUID=91F0B256-D44B-47DD-B42F-04D3DF358EA8
+Change component parameters: Designator = "C505" ("C505"); Footprint = "FP-RAD-TH-D_12_5_0_5-L_20-MFG"; UniqueID = "\CKWPRQNY" ("\CKWPRQNY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "Ø10x20mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.alliedelec.com/images/products/datasheets/bm/Panasonic/70067776.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp-Max"; Value = "105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 10 mm, Body Length 20 mm, Pin Spacing 5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAP-10x20-P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.alliedelec.com/images/products/datasheets/bm/Panasonic/70067776.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Version"; Value = "Nov-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "530mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "NHG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Radial"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC505_2 Pin=C505-1
+Added Pin To Net: NetName=GND Pin=C505-2
+Change Net Name : Old Net Name=NetC505_2 New Net Name=NetC505_1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJ708_2 Pin=R201-1
+Removed Pin From Net: NetName=NetJ708_3 Pin=R201-2
+Removed Pin From Net: NetName=NetJ708_3 Pin=U203-6
+Removed Pin From Net: NetName=NetJ708_2 Pin=U203-7
+Added Pin To Net: NetName=NetJ708_3 Pin=R201-1
+Added Pin To Net: NetName=NetJ708_2 Pin=R201-2
+Added Pin To Net: NetName=NetJ708_2 Pin=U203-6
+Added Pin To Net: NetName=NetJ708_3 Pin=U203-7

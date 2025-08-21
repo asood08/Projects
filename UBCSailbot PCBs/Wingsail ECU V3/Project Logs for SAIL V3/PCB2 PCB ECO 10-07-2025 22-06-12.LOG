@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetJ707_2 Pin=R601-1
+Removed Pin From Net: NetName=NetJ707_3 Pin=R601-2
+Removed Pin From Net: NetName=NetJ707_3 Pin=U601-6
+Removed Pin From Net: NetName=NetJ707_2 Pin=U601-7
+Added Pin To Net: NetName=NetJ707_3 Pin=R601-1
+Added Pin To Net: NetName=NetJ707_2 Pin=R601-2
+Added Pin To Net: NetName=NetJ707_2 Pin=U601-6
+Added Pin To Net: NetName=NetJ707_3 Pin=U601-7
+Added Member To Class: ClassName=Protection_Circuit Member=Component U301 LTC4368IMS-2#PBF

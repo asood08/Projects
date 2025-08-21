@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetJ102_1 Pin=J102-1
+Added Pin To Net: NetName=NetJ102_1 Pin=R507-1
+Added Net: Name=NetJ102_1
+Added Pin To Net: NetName=NetJ104_14 Pin=J104-14
+Added Pin To Net: NetName=NetJ104_14 Pin=R505-1
+Added Net: Name=NetJ104_14
+Added Pin To Net: NetName=NetJ104_16 Pin=J104-16
+Added Pin To Net: NetName=NetJ104_16 Pin=R503-1
+Added Net: Name=NetJ104_16

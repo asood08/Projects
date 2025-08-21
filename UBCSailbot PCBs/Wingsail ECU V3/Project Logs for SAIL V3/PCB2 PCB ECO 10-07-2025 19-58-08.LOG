@@ -1,0 +1,7 @@
+Added Component: Designator=J104(CN10_17X2_PADS)
+Added Pin To Net: NetName=NetJ104_8 Pin=J104-8
+Added Pin To Net: NetName=NetJ104_11 Pin=J104-11
+Added Pin To Net: NetName=NetJ104_14 Pin=J104-14
+Added Pin To Net: NetName=NetJ104_16 Pin=J104-16
+Added Pin To Net: NetName=NetJ104_29 Pin=J104-29
+Added Member To Class: ClassName=Nucleo_connections Member=Component J104 CN10 CONN HDR 34POS

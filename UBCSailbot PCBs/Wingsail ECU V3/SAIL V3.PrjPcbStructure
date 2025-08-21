@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Data_PWR_Connectors.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Data_PWR_Connectors.SchDoc|FileName=General_Tranceivers.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Data_PWR_Connectors.SchDoc|FileName=Nucleo_connections.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Data_PWR_Connectors.SchDoc|FileName=Power_Management.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Data_PWR_Connectors.SchDoc|FileName=Protection_Circuit.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Data_PWR_Connectors.SchDoc|FileName=SERVO_CAN.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Data_PWR_Connectors.SchDoc|FileName=Switching_Circuits.SchDoc|SheetNumber=5

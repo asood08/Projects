@@ -1,0 +1,414 @@
+Protel Design System Design Rule Check
+PCB File : D:\OneDrive - UBC\Documents\Sailbot Docs\com-module-hardware\SAIL BOB\SAIL V3\PCB2.PcbDoc
+Date     : 11/07/2025
+Time     : 00:38:08
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Arc (3543.307mil,2582.284mil) on SIGNAL LAYER And Pad J104-33(3543.307mil,2582.284mil) on Multi-Layer 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Arc (3543.307mil,2682.284mil) on SIGNAL LAYER And Pad J104-34(3543.307mil,2682.284mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.968mil < 10mil) Between Arc (3553.307mil,2530.845mil) on SIGNAL LAYER And Pad J104-33(3543.307mil,2582.284mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.968mil < 10mil) Between Arc (3553.307mil,2733.722mil) on SIGNAL LAYER And Pad J104-34(3543.307mil,2682.284mil) on Multi-Layer 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Arc (3558.989mil,2632.284mil) on SIGNAL LAYER And Pad J104-33(3543.307mil,2582.284mil) on Multi-Layer 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Arc (3558.989mil,2632.284mil) on SIGNAL LAYER And Pad J104-34(3543.307mil,2682.284mil) on Multi-Layer 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad C101-2(1072.835mil,570.866mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad C410-2(2775.591mil,708.661mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad C413-2(1889.763mil,1269.684mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad C414-1(1604.331mil,1141.732mil) on  12 V PWR LAYER And Track (1259.576mil,915.354mil)(1556.912mil,1212.69mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad C414-1(1604.331mil,1141.732mil) on  12 V PWR LAYER And Track (1556.912mil,1212.69mil)(1586.706mil,1212.69mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad C414-1(1604.331mil,1141.732mil) on  12 V PWR LAYER And Track (1586.706mil,1212.69mil)(1594.488mil,1220.472mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad C505-1(541.339mil,2391.732mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad C607-1(612.66mil,3169.291mil) on  12 V PWR LAYER And Track (565.957mil,3198.264mil)(607.475mil,3239.781mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (1.999mil < 10mil) Between Pad D502-1(2933.072mil,3281.497mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (1.999mil < 10mil) Between Pad D502-2(2933.072mil,3372.047mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (2mil < 10mil) Between Pad D504-1(3234.252mil,3120.079mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (2.001mil < 10mil) Between Pad D504-2(3143.7mil,3120.079mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (2.001mil < 10mil) Between Pad D506-1(3454.724mil,3055.117mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (2mil < 10mil) Between Pad D506-2(3454.724mil,3145.669mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (1.999mil < 10mil) Between Pad D508-1(212.598mil,2381.89mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (2mil < 10mil) Between Pad D508-2(122.048mil,2381.89mil) on  12 V PWR LAYER And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-10(1643.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-12(1743.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-14(1843.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-15(1943.308mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-16(1943.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-7(1543.308mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-8(1543.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J101-9(1643.308mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-1(883.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-10(1283.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-11(1383.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-12(1383.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-13(1483.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-14(1483.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-15(1583.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-16(1583.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-17(1683.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-18(1683.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-19(1783.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-2(883.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-20(1783.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-3(983.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (9.173mil < 10mil) Between Pad J102-3(983.464mil,2582.284mil) on Multi-Layer And Track (937.795mil,2627.953mil)(1003.937mil,2627.953mil) on 5V 3V3 PWR LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-4(983.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-5(1083.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-6(1083.464mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-7(1183.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J102-9(1283.464mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J103-1(2143.308mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J103-2(2143.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J103-3(2243.308mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J103-4(2243.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J103-5(2343.308mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J103-6(2343.308mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-1(1943.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-10(2343.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J104-10(2343.307mil,2682.284mil) on Multi-Layer And Track (2349.335mil,2736.22mil)(2391.732mil,2693.823mil) on 5V 3V3 PWR LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-11(2443.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-12(2443.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-13(2543.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (9.933mil < 10mil) Between Pad J104-13(2543.307mil,2582.284mil) on Multi-Layer And Track (2490.157mil,2594.794mil)(2533.168mil,2637.804mil) on 5V 3V3 PWR LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-14(2543.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-15(2643.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-16(2643.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-17(2743.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-18(2743.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (7.992mil < 10mil) Between Pad J104-18(2743.307mil,2682.284mil) on Multi-Layer And Track (2687.795mil,2637.795mil)(2844.488mil,2637.795mil) on 5V 3V3 PWR LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-2(1943.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-29(3343.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-3(2043.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-30(3343.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-31(3443.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-32(3443.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-33(3543.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (7.968mil < 10mil) Between Pad J104-33(3543.307mil,2582.284mil) on Multi-Layer And Track (3543.307mil,2534.987mil)(3546.236mil,2537.916mil) on SIGNAL LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J104-33(3543.307mil,2582.284mil) on Multi-Layer And Track (3546.236mil,2537.916mil)(3548.524mil,2540.204mil) on SIGNAL LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J104-33(3543.307mil,2582.284mil) on Multi-Layer And Track (3548.524mil,2540.204mil)(3548.524mil,2540.204mil) on SIGNAL LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-34(3543.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (7.968mil < 10mil) Between Pad J104-34(3543.307mil,2682.284mil) on Multi-Layer And Track (3543.307mil,2729.58mil)(3546.236mil,2726.651mil) on SIGNAL LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J104-34(3543.307mil,2682.284mil) on Multi-Layer And Track (3546.236mil,2726.651mil)(3548.524mil,2724.363mil) on SIGNAL LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J104-34(3543.307mil,2682.284mil) on Multi-Layer And Track (3548.524mil,2724.363mil)(3548.524mil,2724.363mil) on SIGNAL LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-4(2043.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J104-5(2143.307mil,2582.284mil) on Multi-Layer And Track (2185.709mil,2195.551mil)(2185.709mil,2624.685mil) on 5V 3V3 PWR LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-6(2143.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-7(2243.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-8(2243.307mil,2682.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J104-9(2343.307mil,2582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J105-2(3243.307mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J105-3(3343.307mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J105-4(3343.307mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J105-5(3443.307mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J105-6(3443.307mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J105-7(3543.307mil,782.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J105-8(3543.307mil,882.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J106-1(543.7mil,482.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J106-2(543.7mil,582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J106-3(643.7mil,482.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J106-4(643.7mil,582.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J106-5(743.7mil,482.284mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J106-6(743.7mil,582.284mil) on Multi-Layer And Track (707.823mil,668.898mil)(841.313mil,668.898mil) on 5V 3V3 PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J701-1(2775.59mil,3267.716mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J702-1(2322.835mil,3267.716mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J702-2(2125.985mil,3267.716mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J703-1(265.748mil,1407.48mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J704-1(265.748mil,984.252mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J705-1(265.748mil,561.023mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J706-1(2057.086mil,393.7mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J706-2(2155.512mil,393.7mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J706-3(2253.938mil,393.7mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J707-2(255.905mil,3287.402mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J707-3(255.905mil,3188.978mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J708-2(2736.22mil,393.7mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J708-3(2834.646mil,393.7mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (6.81mil < 10mil) Between Pad J708-4(2933.07mil,393.7mil) on Multi-Layer And Track (2874.015mil,354.331mil)(3149.607mil,354.331mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J709-1(3612.205mil,3041.337mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J709-2(3612.205mil,3139.763mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J709-3(3612.205mil,3238.189mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J710-1(3385.826mil,3296.26mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.905mil < 10mil) Between Pad J710-2(3287.402mil,3296.26mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J710-3(3188.976mil,3296.26mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad J717-1(255.906mil,2578.74mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad Q301-1(816.929mil,1669.291mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad Q301-2(816.929mil,1769.685mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad Q301-3(816.929mil,1870.079mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad Q302-1(1092.52mil,1669.291mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad Q302-2(1092.52mil,1769.685mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad Q302-3(1092.52mil,1870.079mil) on Multi-Layer And Polygon Region (128 hole(s)) GND LAYER 2 
+   Violation between Clearance Constraint: (8.86mil < 10mil) Between Pad R306-1(728.346mil,1434.054mil) on  12 V PWR LAYER And Track (542.128mil,1499.016mil)(728.346mil,1499.016mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (2.001mil < 10mil) Between Pad R308-1(1521.379mil,1393.747mil) on  12 V PWR LAYER And Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (2.001mil < 10mil) Between Pad R308-2(1314.379mil,1393.747mil) on  12 V PWR LAYER And Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (2mil < 10mil) Between Pad R308-3(1314.379mil,1637.747mil) on  12 V PWR LAYER And Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (2mil < 10mil) Between Pad R308-4(1521.379mil,1637.747mil) on  12 V PWR LAYER And Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad U202-16(1415.748mil,2438.976mil) on  12 V PWR LAYER And Track (1380.042mil,2457.87mil)(1400.596mil,2478.424mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad U202-16(1415.748mil,2438.976mil) on  12 V PWR LAYER And Track (1400.596mil,2478.424mil)(1443.032mil,2478.424mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.677mil < 10mil) Between Pad U203-7(3460.04mil,308.364mil) on  12 V PWR LAYER And Track (3442.914mil,227.599mil)(3464.638mil,249.322mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.677mil < 10mil) Between Pad U203-7(3460.04mil,308.364mil) on  12 V PWR LAYER And Track (3464.638mil,249.322mil)(3485.544mil,249.322mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.384mil < 10mil) Between Pad U301-1(875.983mil,1168.517mil) on  12 V PWR LAYER And Pad U301-2(895.669mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.535mil < 10mil) Between Pad U301-1(875.983mil,1168.517mil) on  12 V PWR LAYER And Track (895.669mil,1111.219mil)(895.669mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.384mil < 10mil) Between Pad U301-10(875.983mil,1338.583mil) on  12 V PWR LAYER And Pad U301-9(895.669mil,1338.583mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.535mil < 10mil) Between Pad U301-10(875.983mil,1338.583mil) on  12 V PWR LAYER And Track (895.669mil,1338.583mil)(896.11mil,1339.023mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.976mil < 10mil) Between Pad U301-10(875.983mil,1338.583mil) on  12 V PWR LAYER And Track (896.11mil,1339.023mil)(896.11mil,1388.236mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.382mil < 10mil) Between Pad U301-2(895.669mil,1168.517mil) on  12 V PWR LAYER And Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (3.692mil < 10mil) Between Pad U301-2(895.669mil,1168.517mil) on  12 V PWR LAYER And Track (856.697mil,1151.973mil)(866.142mil,1161.417mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.533mil < 10mil) Between Pad U301-2(895.669mil,1168.517mil) on  12 V PWR LAYER And Track (915.353mil,999.017mil)(915.353mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.384mil < 10mil) Between Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER And Pad U301-4(935.039mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.533mil < 10mil) Between Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER And Track (895.669mil,1111.219mil)(895.669mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.535mil < 10mil) Between Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER And Track (935.039mil,1168.517mil)(935.48mil,1168.957mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.976mil < 10mil) Between Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER And Track (935.48mil,1168.957mil)(935.48mil,1203.473mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.558mil < 10mil) Between Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER And Track (935.48mil,1203.473mil)(947.658mil,1215.651mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.382mil < 10mil) Between Pad U301-4(935.039mil,1168.517mil) on  12 V PWR LAYER And Pad U301-5(954.723mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.535mil < 10mil) Between Pad U301-4(935.039mil,1168.517mil) on  12 V PWR LAYER And Track (915.353mil,999.017mil)(915.353mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.533mil < 10mil) Between Pad U301-4(935.039mil,1168.517mil) on  12 V PWR LAYER And Track (954.723mil,1122.048mil)(954.723mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.092mil < 10mil) Between Pad U301-5(954.723mil,1168.517mil) on  12 V PWR LAYER And Track (935.039mil,1168.517mil)(935.48mil,1168.957mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.092mil < 10mil) Between Pad U301-5(954.723mil,1168.517mil) on  12 V PWR LAYER And Track (935.48mil,1168.957mil)(935.48mil,1203.473mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad U301-5(954.723mil,1168.517mil) on  12 V PWR LAYER And Track (935.48mil,1203.473mil)(947.658mil,1215.651mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad U301-5(954.723mil,1168.517mil) on  12 V PWR LAYER And Track (947.658mil,1215.651mil)(1018.601mil,1215.651mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.382mil < 10mil) Between Pad U301-6(954.723mil,1338.583mil) on  12 V PWR LAYER And Pad U301-7(935.039mil,1338.583mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad U301-6(954.723mil,1338.583mil) on  12 V PWR LAYER And Track (921.943mil,1385.717mil)(961.788mil,1385.717mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (6.94mil < 10mil) Between Pad U301-6(954.723mil,1338.583mil) on  12 V PWR LAYER And Track (961.788mil,1385.717mil)(962.52mil,1384.986mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (6.94mil < 10mil) Between Pad U301-6(954.723mil,1338.583mil) on  12 V PWR LAYER And Track (962.52mil,1384.986mil)(1305.617mil,1384.986mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.384mil < 10mil) Between Pad U301-7(935.039mil,1338.583mil) on  12 V PWR LAYER And Pad U301-8(915.353mil,1338.583mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.535mil < 10mil) Between Pad U301-7(935.039mil,1338.583mil) on  12 V PWR LAYER And Track (915.353mil,1338.583mil)(915.353mil,1379.128mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Pad U301-7(935.039mil,1338.583mil) on  12 V PWR LAYER And Track (921.943mil,1385.717mil)(961.788mil,1385.717mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.533mil < 10mil) Between Pad U301-7(935.039mil,1338.583mil) on  12 V PWR LAYER And Track (954.723mil,1289.369mil)(954.723mil,1338.583mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.382mil < 10mil) Between Pad U301-8(915.353mil,1338.583mil) on  12 V PWR LAYER And Pad U301-9(895.669mil,1338.583mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.092mil < 10mil) Between Pad U301-8(915.353mil,1338.583mil) on  12 V PWR LAYER And Track (895.669mil,1338.583mil)(896.11mil,1339.023mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.092mil < 10mil) Between Pad U301-8(915.353mil,1338.583mil) on  12 V PWR LAYER And Track (896.11mil,1339.023mil)(896.11mil,1388.236mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.535mil < 10mil) Between Pad U301-9(895.669mil,1338.583mil) on  12 V PWR LAYER And Track (875.983mil,1338.583mil)(875.983mil,1432.085mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.533mil < 10mil) Between Pad U301-9(895.669mil,1338.583mil) on  12 V PWR LAYER And Track (915.353mil,1338.583mil)(915.353mil,1379.128mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.438mil < 10mil) Between Pad U401-7(2199.409mil,3085.278mil) on  12 V PWR LAYER And Track (2149.409mil,3085.278mil)(2155.512mil,3091.38mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (7.438mil < 10mil) Between Pad U401-7(2199.409mil,3085.278mil) on  12 V PWR LAYER And Track (2155.512mil,3091.38mil)(2155.512mil,3230.945mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (6.061mil < 10mil) Between Pad U402-8(2869.48mil,1163.78mil) on  12 V PWR LAYER And Polygon Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Polygon Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Polygon Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Polygon Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Polygon Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Polygon Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.843mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Polygon Region (0 hole(s))  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Track (2037.402mil,1092.52mil)(2647.638mil,1092.52mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Polygon Region (0 hole(s))  12 V PWR LAYER And Track (2037.402mil,1092.52mil)(2647.638mil,1092.52mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1131.89mil,3444.882mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1171.26mil,2283.465mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1446.85mil,3159.449mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1486.22mil,3257.874mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1516.531mil,2371.265mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1545.276mil,3208.661mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1564.961mil,2312.992mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1584.646mil,3316.929mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1614.173mil,2372.047mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1633.858mil,3110.236mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1673.228mil,2312.992mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1713.797mil,2372.544mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1751.968mil,2145.669mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1761.811mil,708.661mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1771.653mil,413.386mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1820.866mil,2204.724mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1820.866mil,669.291mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1830.709mil,2440.945mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1850.394mil,423.228mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (1948.819mil,3464.567mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2047.244mil,2057.087mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2165.354mil,2805.118mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2194.882mil,1879.921mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2244.095mil,2775.591mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2480.315mil,777.559mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2549.213mil,777.559mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2618.11mil,777.559mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2627.953mil,1259.842mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2627.953mil,1318.898mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2864.173mil,1259.842mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (2864.173mil,1318.898mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (3031.496mil,2283.465mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (3267.716mil,541.339mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (3307.087mil,629.921mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (521.654mil,1899.606mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (675.198mil,1362.204mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Polygon Region (128 hole(s)) GND LAYER 2 And Via (807.087mil,1141.732mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Region (0 hole(s)) Keep-Out Layer And Track (3080.709mil,2913.386mil)(3385.826mil,3218.503mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Region (0 hole(s)) Keep-Out Layer And Track (3188.976mil,2834.645mil)(3188.976mil,3296.26mil) on SIGNAL LAYER 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Region (0 hole(s)) Keep-Out Layer And Track (3454.724mil,2952.756mil)(3454.724mil,3055.117mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.37mil < 10mil) Between Track (1009.45mil,3484.252mil)(1377.953mil,3484.252mil) on  12 V PWR LAYER And Via (1131.89mil,3444.882mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (9.37mil < 10mil) Between Track (1171.26mil,1154.332mil)(1171.26mil,2096.457mil) on 5V 3V3 PWR LAYER And Via (1210.63mil,1545.276mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (9.37mil < 10mil) Between Track (1171.26mil,2096.457mil)(1171.26mil,2283.465mil) on 5V 3V3 PWR LAYER And Via (1210.63mil,2214.567mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (9.37mil < 10mil) Between Track (1486.22mil,2785.041mil)(1486.22mil,3257.874mil) on SIGNAL LAYER And Via (1446.85mil,3159.449mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Track (1563.395mil,2372.047mil)(1681.505mil,2490.157mil) on SIGNAL LAYER And Via (1614.173mil,2372.047mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (9.37mil < 10mil) Between Track (1584.646mil,2683.466mil)(1584.646mil,3316.929mil) on SIGNAL LAYER And Via (1545.276mil,3208.661mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (5.906mil < 10mil) Between Track (1624.69mil,2769.213mil)(2177.965mil,2769.213mil) on 5V 3V3 PWR LAYER And Via (2165.354mil,2805.118mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (9.37mil < 10mil) Between Track (1909.449mil,2736.22mil)(2349.335mil,2736.22mil) on 5V 3V3 PWR LAYER And Via (2244.095mil,2775.591mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (8.056mil < 10mil) Between Track (2177.965mil,2769.213mil)(2237.716mil,2769.213mil) on 5V 3V3 PWR LAYER And Via (2165.354mil,2805.118mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (9.685mil < 10mil) Between Track (2795.274mil,334.646mil)(3198.819mil,334.646mil) on  12 V PWR LAYER And Track (2834.646mil,393.7mil)(2874.015mil,354.331mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.685mil < 10mil) Between Track (2795.274mil,334.646mil)(3198.819mil,334.646mil) on  12 V PWR LAYER And Track (2874.015mil,354.331mil)(3149.607mil,354.331mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.685mil < 10mil) Between Track (2795.274mil,334.646mil)(3198.819mil,334.646mil) on  12 V PWR LAYER And Track (3149.607mil,354.331mil)(3238.19mil,442.914mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (8.431mil < 10mil) Between Track (3159.449mil,2273.622mil)(3179.134mil,2293.307mil) on  12 V PWR LAYER And Track (3196.849mil,2194.882mil)(3218.345mil,2173.386mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.37mil < 10mil) Between Track (630.707mil,669.291mil)(1820.866mil,669.291mil) on SIGNAL LAYER And Via (1761.811mil,708.661mil) from  12 V PWR LAYER to GND LAYER 2 
+   Violation between Clearance Constraint: (9.684mil < 10mil) Between Track (786.418mil,1001.968mil)(895.669mil,1111.219mil) on  12 V PWR LAYER And Track (915.353mil,999.017mil)(915.353mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (4.843mil < 10mil) Between Track (856.697mil,1151.973mil)(866.142mil,1161.417mil) on  12 V PWR LAYER And Track (895.669mil,1111.219mil)(895.669mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.686mil < 10mil) Between Track (875.983mil,1338.583mil)(875.983mil,1432.085mil) on  12 V PWR LAYER And Track (895.669mil,1338.583mil)(896.11mil,1339.023mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.684mil < 10mil) Between Track (895.669mil,1111.219mil)(895.669mil,1168.517mil) on  12 V PWR LAYER And Track (915.353mil,999.017mil)(915.353mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.243mil < 10mil) Between Track (895.669mil,1338.583mil)(896.11mil,1339.023mil) on  12 V PWR LAYER And Track (915.353mil,1338.583mil)(915.353mil,1379.128mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.243mil < 10mil) Between Track (896.11mil,1339.023mil)(896.11mil,1388.236mil) on  12 V PWR LAYER And Track (915.353mil,1338.583mil)(915.353mil,1379.128mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.243mil < 10mil) Between Track (896.11mil,1339.023mil)(896.11mil,1388.236mil) on  12 V PWR LAYER And Track (915.353mil,1379.128mil)(921.943mil,1385.717mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.686mil < 10mil) Between Track (915.353mil,999.017mil)(915.353mil,1168.517mil) on  12 V PWR LAYER And Track (935.039mil,1168.517mil)(935.48mil,1168.957mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.249mil < 10mil) Between Track (935.039mil,1168.517mil)(935.48mil,1168.957mil) on  12 V PWR LAYER And Track (954.723mil,1122.048mil)(954.723mil,1168.517mil) on  12 V PWR LAYER 
+   Violation between Clearance Constraint: (9.249mil < 10mil) Between Track (935.48mil,1168.957mil)(935.48mil,1203.473mil) on  12 V PWR LAYER And Track (954.723mil,1122.048mil)(954.723mil,1168.517mil) on  12 V PWR LAYER 
+Rule Violations :246
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L01_P003) on  12 V PWR LAYER Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L01_P016) on  12 V PWR LAYER Dead Copper - Net Not Assigned.
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=39.37mil) (Max=118.11mil) (Preferred=78.74mil) (InNetClass('12V_Trace'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=118.11mil) (Preferred=98.425mil) (InNetClass('12V_Power'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=39.37mil) (Max=118.11mil) (Preferred=78.74mil) (InNetClass('Power'))
+   Violation between Width Constraint: Arc (3439.981mil,528.663mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (1022.717mil,3422.323mil)(1022.717mil,3434.134mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (1022.717mil,3434.134mil)(1031.497mil,3442.914mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (1031.497mil,3442.914mil)(1043.308mil,3442.914mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (1043.308mil,3442.914mil)(1044.292mil,3443.898mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (1044.292mil,3443.898mil)(1130.906mil,3443.898mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (2618.11mil,777.559mil)(2888.78mil,777.559mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (2888.78mil,777.559mil)(3036.417mil,629.921mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (3036.417mil,629.921mil)(3307.087mil,629.921mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (3309.12mil,631.955mil)(3389.829mil,631.955mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (3397.638mil,528.663mil)(3397.638mil,639.764mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (655.512mil,1573.594mil)(655.512mil,2978.347mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (655.512mil,1573.594mil)(707.823mil,1521.283mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (655.512mil,2978.347mil)(1122.047mil,3444.882mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (707.823mil,1400.679mil)(707.823mil,1521.283mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (707.823mil,1400.679mil)(725.473mil,1383.028mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (718.504mil,1334.409mil)(725.473mil,1341.379mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (718.504mil,668.898mil)(718.504mil,1334.409mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (725.473mil,1341.379mil)(725.473mil,1383.028mil) on 5V 3V3 PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (921.951mil,3381.299mil)(981.693mil,3381.299mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+   Violation between Width Constraint: Track (981.693mil,3381.299mil)(1022.717mil,3422.323mil) on  12 V PWR LAYER Actual Width = 10mil, Target Width = 39.37mil
+Rule Violations :21
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (2.258mil < 10mil) Between Pad C204-2(1838.582mil,246.064mil) on  12 V PWR LAYER And Via (1883.619mil,244.204mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [2.258mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.715mil < 10mil) Between Pad C406-1(2972.44mil,1145.669mil) on  12 V PWR LAYER And Pad C406-2(2972.44mil,1078.741mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [9.715mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.267mil < 10mil) Between Pad D701-2(561.024mil,758.662mil) on  12 V PWR LAYER And Via (590.551mil,816.929mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [4.267mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.86mil < 10mil) Between Pad Q506-2(3196.849mil,2194.882mil) on  12 V PWR LAYER And Pad R506-2(3248.031mil,2166.339mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [4.86mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.339mil < 10mil) Between Pad R304-1(989.172mil,994.094mil) on  12 V PWR LAYER And Via (1053.15mil,994.095mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [8.339mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.354mil < 10mil) Between Pad U201-7(1765.748mil,344.488mil) on  12 V PWR LAYER And Via (1771.653mil,413.386mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [7.354mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.889mil < 10mil) Between Pad U202-10(1715.748mil,2438.976mil) on  12 V PWR LAYER And Via (1713.797mil,2372.544mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [4.889mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.385mil < 10mil) Between Pad U202-12(1615.748mil,2438.976mil) on  12 V PWR LAYER And Via (1614.173mil,2372.047mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [5.385mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.168mil < 10mil) Between Pad U202-14(1515.748mil,2438.976mil) on  12 V PWR LAYER And Via (1516.531mil,2371.265mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [6.168mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.384mil < 10mil) Between Pad U301-1(875.983mil,1168.517mil) on  12 V PWR LAYER And Pad U301-2(895.669mil,1168.517mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.384mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.384mil < 10mil) Between Pad U301-10(875.983mil,1338.583mil) on  12 V PWR LAYER And Pad U301-9(895.669mil,1338.583mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.384mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.382mil < 10mil) Between Pad U301-2(895.669mil,1168.517mil) on  12 V PWR LAYER And Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.382mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.384mil < 10mil) Between Pad U301-3(915.353mil,1168.517mil) on  12 V PWR LAYER And Pad U301-4(935.039mil,1168.517mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.384mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.382mil < 10mil) Between Pad U301-4(935.039mil,1168.517mil) on  12 V PWR LAYER And Pad U301-5(954.723mil,1168.517mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.382mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.382mil < 10mil) Between Pad U301-6(954.723mil,1338.583mil) on  12 V PWR LAYER And Pad U301-7(935.039mil,1338.583mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.382mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.384mil < 10mil) Between Pad U301-7(935.039mil,1338.583mil) on  12 V PWR LAYER And Pad U301-8(915.353mil,1338.583mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.384mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.382mil < 10mil) Between Pad U301-8(915.353mil,1338.583mil) on  12 V PWR LAYER And Pad U301-9(895.669mil,1338.583mil) on  12 V PWR LAYER [Top Solder] Mask Sliver [7.382mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 10mil) Between Via (2627.953mil,1259.842mil) from  12 V PWR LAYER to GND LAYER 2 And Via (2627.953mil,1318.898mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [1.055mil] / [Bottom Solder] Mask Sliver [1.055mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 10mil) Between Via (2864.173mil,1259.842mil) from  12 V PWR LAYER to GND LAYER 2 And Via (2864.173mil,1318.898mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [1.055mil] / [Bottom Solder] Mask Sliver [1.055mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 10mil) Between Via (3179.134mil,1082.677mil) from  12 V PWR LAYER to GND LAYER 2 And Via (3179.134mil,1141.732mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [1.055mil] / [Bottom Solder] Mask Sliver [1.055mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 10mil) Between Via (482.284mil,1318.898mil) from  12 V PWR LAYER to GND LAYER 2 And Via (541.339mil,1318.898mil) from  12 V PWR LAYER to GND LAYER 2 [Top Solder] Mask Sliver [1.055mil] / [Bottom Solder] Mask Sliver [1.055mil]
+Rule Violations :21
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Arc (3510.039mil,565.199mil) on Top Overlay And Pad U203-1(3510.04mil,498.722mil) on  12 V PWR LAYER [Top Overlay] to [Top Solder] clearance [9.842mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Arc (875.984mil,1112.602mil) on Top Overlay And Pad U301-1(875.983mil,1168.517mil) on  12 V PWR LAYER [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Arc (988.428mil,3281.299mil) on Top Overlay And Pad U601-1(921.951mil,3281.299mil) on  12 V PWR LAYER [Top Overlay] to [Top Solder] clearance [9.842mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D502-1(2933.072mil,3281.497mil) on  12 V PWR LAYER And Text "*" (2958.071mil,3232.122mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D504-1(3234.252mil,3120.079mil) on  12 V PWR LAYER And Text "*" (3283.626mil,3145.079mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D506-1(3454.724mil,3055.117mil) on  12 V PWR LAYER And Text "*" (3479.724mil,3005.744mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D508-1(212.598mil,2381.89mil) on  12 V PWR LAYER And Text "*" (261.972mil,2406.89mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad L401-1(3149.607mil,1325.787mil) on  12 V PWR LAYER And Track (2938.977mil,1265.749mil)(3059.055mil,1265.749mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad L401-1(3149.607mil,1325.787mil) on  12 V PWR LAYER And Track (3240.157mil,1265.749mil)(3360.237mil,1265.749mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad L401-2(3149.607mil,1626.969mil) on  12 V PWR LAYER And Track (2938.977mil,1687.007mil)(3059.055mil,1687.007mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad L401-2(3149.607mil,1626.969mil) on  12 V PWR LAYER And Track (3240.157mil,1687.007mil)(3360.237mil,1687.007mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.824mil < 10mil) Between Pad Q501-2(1930.968mil,1578.149mil) on  12 V PWR LAYER And Text "C413" (1758mil,1491mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.824mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R201-1(3238.19mil,442.914mil) on  12 V PWR LAYER And Track (3213.582mil,399.606mil)(3213.582mil,407.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R201-1(3238.19mil,442.914mil) on  12 V PWR LAYER And Track (3262.796mil,399.606mil)(3262.796mil,407.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R201-2(3238.19mil,364.174mil) on  12 V PWR LAYER And Track (3213.582mil,399.606mil)(3213.582mil,407.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R201-2(3238.19mil,364.174mil) on  12 V PWR LAYER And Track (3262.796mil,399.606mil)(3262.796mil,407.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R305-1(728.346mil,1154.526mil) on  12 V PWR LAYER And Track (705.71mil,1118.111mil)(705.71mil,1125.985mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R305-1(728.346mil,1154.526mil) on  12 V PWR LAYER And Track (750.984mil,1118.111mil)(750.984mil,1125.985mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R305-2(728.346mil,1089.566mil) on  12 V PWR LAYER And Track (705.71mil,1118.111mil)(705.71mil,1125.985mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R305-2(728.346mil,1089.566mil) on  12 V PWR LAYER And Track (750.984mil,1118.111mil)(750.984mil,1125.985mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R306-1(728.346mil,1434.054mil) on  12 V PWR LAYER And Track (705.71mil,1462.598mil)(705.71mil,1470.472mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R306-1(728.346mil,1434.054mil) on  12 V PWR LAYER And Track (750.984mil,1462.598mil)(750.984mil,1470.472mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R306-2(728.346mil,1499.016mil) on  12 V PWR LAYER And Track (705.71mil,1462.598mil)(705.71mil,1470.472mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R306-2(728.346mil,1499.016mil) on  12 V PWR LAYER And Track (750.984mil,1462.598mil)(750.984mil,1470.472mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R404-1(2976.377mil,895.669mil) on  12 V PWR LAYER And Track (3004.921mil,873.031mil)(3012.795mil,873.031mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R404-1(2976.377mil,895.669mil) on  12 V PWR LAYER And Track (3004.921mil,918.307mil)(3012.795mil,918.307mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R404-2(3041.339mil,895.669mil) on  12 V PWR LAYER And Track (3004.921mil,873.031mil)(3012.795mil,873.031mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R404-2(3041.339mil,895.669mil) on  12 V PWR LAYER And Track (3004.921mil,918.307mil)(3012.795mil,918.307mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R601-1(551.182mil,3307.088mil) on  12 V PWR LAYER And Track (526.574mil,3342.52mil)(526.574mil,3350.394mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R601-1(551.182mil,3307.088mil) on  12 V PWR LAYER And Track (575.788mil,3342.52mil)(575.788mil,3350.394mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R601-2(551.182mil,3385.828mil) on  12 V PWR LAYER And Track (526.574mil,3342.52mil)(526.574mil,3350.394mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R601-2(551.182mil,3385.828mil) on  12 V PWR LAYER And Track (575.788mil,3342.52mil)(575.788mil,3350.394mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R603-1(1860.237mil,3195.866mil) on  12 V PWR LAYER And Track (1837.599mil,3224.41mil)(1837.599mil,3232.284mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.875mil < 10mil) Between Pad R603-1(1860.237mil,3195.866mil) on  12 V PWR LAYER And Track (1882.875mil,3224.41mil)(1882.875mil,3232.284mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.875mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R603-2(1860.237mil,3260.826mil) on  12 V PWR LAYER And Track (1837.599mil,3224.41mil)(1837.599mil,3232.284mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.873mil < 10mil) Between Pad R603-2(1860.237mil,3260.826mil) on  12 V PWR LAYER And Track (1882.875mil,3224.41mil)(1882.875mil,3232.284mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.873mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R604-1(597.441mil,2913.386mil) on  12 V PWR LAYER And Track (625.984mil,2890.748mil)(633.858mil,2890.748mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R604-1(597.441mil,2913.386mil) on  12 V PWR LAYER And Track (625.984mil,2936.024mil)(633.858mil,2936.024mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R604-2(662.402mil,2913.386mil) on  12 V PWR LAYER And Track (625.984mil,2890.748mil)(633.858mil,2890.748mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R604-2(662.402mil,2913.386mil) on  12 V PWR LAYER And Track (625.984mil,2936.024mil)(633.858mil,2936.024mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R605-1(705.709mil,3169.291mil) on  12 V PWR LAYER And Track (734.252mil,3146.653mil)(742.126mil,3146.653mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R605-1(705.709mil,3169.291mil) on  12 V PWR LAYER And Track (734.252mil,3191.929mil)(742.126mil,3191.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R605-2(770.669mil,3169.291mil) on  12 V PWR LAYER And Track (734.252mil,3146.653mil)(742.126mil,3146.653mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad R605-2(770.669mil,3169.291mil) on  12 V PWR LAYER And Track (734.252mil,3191.929mil)(742.126mil,3191.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U401-5(2299.409mil,3085.278mil) on  12 V PWR LAYER And Track (2027.561mil,3129.921mil)(2421.261mil,3129.921mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U401-6(2249.409mil,3085.278mil) on  12 V PWR LAYER And Track (2027.561mil,3129.921mil)(2421.261mil,3129.921mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U401-7(2199.409mil,3085.278mil) on  12 V PWR LAYER And Track (2027.561mil,3129.921mil)(2421.261mil,3129.921mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U401-8(2149.409mil,3085.278mil) on  12 V PWR LAYER And Track (2027.561mil,3129.921mil)(2421.261mil,3129.921mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.469mil < 10mil) Between Pad Y601-1(1122.046mil,3070.867mil) on  12 V PWR LAYER And Track (1177.322mil,3097.441mil)(1190.945mil,3097.441mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.469mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.467mil < 10mil) Between Pad Y601-1(1122.046mil,3070.867mil) on  12 V PWR LAYER And Track (822.992mil,3097.441mil)(1066.773mil,3097.441mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.467mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.917mil < 10mil) Between Pad Y601-2(767.716mil,3070.867mil) on  12 V PWR LAYER And Track (698.818mil,3097.441mil)(712.992mil,3097.441mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.917mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.469mil < 10mil) Between Pad Y601-2(767.716mil,3070.867mil) on  12 V PWR LAYER And Track (822.992mil,3097.441mil)(1066.773mil,3097.441mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.469mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.311mil < 10mil) Between Pad Y601-3(767.716mil,2933.071mil) on  12 V PWR LAYER And Track (698.818mil,2906.497mil)(712.598mil,2906.497mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.311mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.469mil < 10mil) Between Pad Y601-3(767.716mil,2933.071mil) on  12 V PWR LAYER And Track (822.992mil,2906.497mil)(1066.773mil,2906.497mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.469mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.469mil < 10mil) Between Pad Y601-4(1122.046mil,2933.071mil) on  12 V PWR LAYER And Track (1177.322mil,2906.497mil)(1190.945mil,2906.497mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.469mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.467mil < 10mil) Between Pad Y601-4(1122.046mil,2933.071mil) on  12 V PWR LAYER And Track (822.992mil,2906.497mil)(1066.773mil,2906.497mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.467mil]
+Rule Violations :56
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (7.061mil < 10mil) Between Arc (639.763mil,2391.733mil) on Top Overlay And Text "+" (379.763mil,2361.733mil) on Top Overlay Silk Text to Silk Clearance [7.061mil]
+   Violation between Silk To Silk Clearance Constraint: (9.227mil < 10mil) Between Text "*" (163.905mil,2036.354mil) on Top Overlay And Track (154.406mil,2083.354mil)(154.406mil,2247.354mil) on Top Overlay Silk Text to Silk Clearance [9.227mil]
+   Violation between Silk To Silk Clearance Constraint: (7.87mil < 10mil) Between Text "*" (2634.979mil,1180.779mil) on Top Overlay And Track (2680.48mil,1191.28mil)(2846.48mil,1191.28mil) on Top Overlay Silk Text to Silk Clearance [7.87mil]
+   Violation between Silk To Silk Clearance Constraint: (9.838mil < 10mil) Between Text "C413" (1758mil,1491mil) on Top Overlay And Track (1978.382mil,1557.085mil)(1995.01mil,1557.085mil) on Top Overlay Silk Text to Silk Clearance [9.838mil]
+   Violation between Silk To Silk Clearance Constraint: (6.86mil < 10mil) Between Text "J106" (495.428mil,649.144mil) on Top Overlay And Track (493.7mil,632.284mil)(798.7mil,632.284mil) on Top Overlay Silk Text to Silk Clearance [6.86mil]
+   Violation between Silk To Silk Clearance Constraint: (3.506mil < 10mil) Between Text "Q301" (705mil,2012mil) on Top Overlay And Text "Q302" (519.957mil,1938.513mil) on Top Overlay Silk Text to Silk Clearance [3.506mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "Q302" (519.957mil,1938.513mil) on Top Overlay And Track (702.461mil,1564.961mil)(702.461mil,1974.409mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "Q302" (519.957mil,1938.513mil) on Top Overlay And Track (702.461mil,1974.409mil)(883.563mil,1935.039mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :8
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 354
+Waived Violations : 0
+Time Elapsed        : 00:00:01
