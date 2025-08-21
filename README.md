@@ -24,7 +24,7 @@ More information on these PCBs and other work can be found in the UBC Sailbot Fo
 This project involved collaborating in a 3-person team to build a self-balancing robot using PID control on an Arduino Nano. I designed and fabricated mechanical mounts for the LiDAR, stepper motors, slip ring, and encoders in SolidWorks, programmed the BMI270 IMU and magnetic encoders, and contributed to firmware development and MATLAB-based control system modeling
 
 ### 📷 Images  
-![Self-Balancing Robot Placeholder](images/self_balancing_robot.png)  
+![Self-Balancing Robot Placeholder](images/Self_Balancing_Robot.jpg)  
 
 
 
@@ -34,7 +34,7 @@ This project involved collaborating in a 3-person team to build a self-balancing
 As team lead, I guided a 6-member group to design and build a remote-controlled robot capable of detecting and retrieving coins. The system featured an H-Bridge circuit with optocouplers to protect the microcontroller and a custom coin detection mechanism using a Colpitts oscillator, magnet, MOSFETs, voltage dividers, and additional optocouplers for signal conditioning:contentReference[oaicite:2]{index=2}.  
 
 ### 📷 Images  
-![Coin Picking Robot Placeholder](images/coin_robot.png)  
+![Coin Picking Robot Placeholder](images/Coin_Picking_Robot.jpg)  
 
 ---
 
@@ -44,7 +44,8 @@ As team lead, I guided a 6-member group to design and build a remote-controlled 
 Built during UBC’s Designathon, this personal project was a prototype line-tracking robot designed to serve food. The robot used Arduino with IR and sonar sensors for navigation, obstacle avoidance, and IR-based line tracking. I also implemented a Python script with a breadth-first search algorithm for pathfinding to optimize delivery routes to tables:contentReference[oaicite:3]{index=3}.  
 
 ### 📷 Images  
-![Server Robot Placeholder](images/server_robot.png)  
+![Server Robot Placeholder](images/Picture_of_prototype.jpg)  
+![Coin Picking Robot Placeholder](images/CAD_Server_Robot.jpg) 
 
 ---
 
