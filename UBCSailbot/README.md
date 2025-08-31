@@ -10,6 +10,7 @@ It is divided into three main areas: the **Mainframe GUI**, **PCBs**, and **Encl
 
 This folder contains two of the Breakout Boards/ Shields that I worked on, which include the Rudder V2 and Sail V3. 
 Sail V3 is my latest design; however, this will be ordered and tested in October.
+In the folder you can find explanations of the different circuits implimented in my latest design!
 
 ![PCB Screenshot Placeholder](../images/PCBS_V2.jpeg)
 
