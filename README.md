@@ -1,15 +1,17 @@
 # Welcome to My Portfolio
 
-This repository highlights a collection of hardware and robotics projects I have contributed to during my time at the **University of British Columbia** and through design teams. Projects span PCB design, embedded systems, robotics control, and mechanical integration.
+This repository showcases a collection of hardware and robotics projects I contributed to during my time at the **University of British Columbia** and UBCSailbot design team. Projects span PCB design, embedded systems, robotics control, and mechanical integration.
 
 ---
 
 ## 🚤 UBC Sailbot – Communications Systems Lead (ELEC)  
 *Jan 2022 – Present*  
 
-As Communications Systems Lead, I manage a 9-member subteam developing hardware for an autonomous sailing robot. I designed and tested multiple custom PCB Hats for stacked Nucleo U5 boards using Altium Designer, built 2 and 4 layer PCBs for various ECUs that are distributed across the sailing robot. The core of these ECUs is Nucleo U575ZI-Q. All these ECUs are connected to various sensors, and each of these units communicates with CANFD. Hence, various PCBs, with power regulation and communication protocol support, had to be implemented. This included buck converters and high-side switching to make the most of the single 12V power line. Furthermore, to support various sensors, circuitry for UART, I2C, RS232, and CAN-FD protocols with transceivers, level shifters, and controllers had to be implimented. My role also included developing CAD enclosures in SolidWorks, soldering and testing completed enclosures with the physical hardware like sensors, actuators, and facilitating workshops and design reviews to enhance collaboration.
+As Communications Systems Lead, I manage a nine-member subteam that develops hardware for an autonomous sailing robot. I designed and tested multiple custom PCB Hats for stacked Nucleo U5 boards using Altium Designer, built six (2 and 4 layer) PCBs for various modules/ECUs that are distributed across the sailing robot. The core of these ECUs is Nucleo U575ZI-Q. All these ECUs are connected to various sensors, and each of these units communicates with CANFD. Hence, PCBs with power regulation and communication protocol support had to be implemented. This included buck converters and high-side switching to make the most of the single 12V power line. Furthermore, to support various sensors, circuitry for UART, I2C, RS232, and CAN-FD protocols with transceivers, level shifters, and controllers had to be implimented. My role also included developing CAD enclosures in SolidWorks, crimping with wire harnessing, facilitating workshops and design reviews to enhance collaboration.
 
 ## *More information on these PCBs and other work can be found in the UBC Sailbot Folder. Detailed descriptions are given in their respective Readme Files*
+
+You can also find more information on the design team at: https://www.ubcsailbot.org/
 
 ### 📷 Images  
 ![Sailbot Placeholder](images/Sailbot.jpg)  
@@ -22,7 +24,7 @@ As Communications Systems Lead, I manage a 9-member subteam developing hardware 
 ## 🤖 Two-Wheeled Self-Balancing Mapping Robot  
 *Jan 2025 – Apr 2025*  
 
-This project involved collaborating in a 3-person team to build a self-balancing robot using PID control on an Arduino Nano. I designed and fabricated mechanical mounts for the LiDAR, stepper motors, slip ring, and encoders in SolidWorks, programmed the BMI270 IMU and magnetic encoders, and contributed to firmware development and MATLAB-based control system modeling
+This project involved collaborating in a 3-person team to build a self-balancing robot using PID control on an Arduino Nano. I designed and fabricated mechanical mounts for the LiDAR, stepper motors, slip ring, and encoders in SolidWorks, programmed the BMI270 IMU and magnetic encoders, and contributed to firmware development and MATLAB-based control system modelling
 
 ### 📷 Images  
 ![Self-Balancing Robot Placeholder](images/Self_Balancing_Robot.jpg)  
