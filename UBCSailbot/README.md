@@ -20,7 +20,7 @@ Sail V3 is my latest design; however, this will be ordered and tested in October
 For our first water and land test, our team needed a quick solution to be able to control the actuators and read sensor data using ssh with
 the Raspberry Pi onboard, which connects to other electronic control units on the boat through CANFD
 
-![GUI Screenshot Placeholder](../images/Mainframe_GUI,png)
+![GUI Screenshot Placeholder](../images/Mainframe_GUI.png)
 
 
 
