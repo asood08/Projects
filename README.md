@@ -9,7 +9,7 @@ This repository highlights a collection of hardware and robotics projects I have
 
 As Communications Systems Lead, I manage a 9-member subteam developing hardware for an autonomous sailing robot. I designed and tested multiple custom PCB Hats for stacked Nucleo U5 boards using Altium Designer, built 2 and 4 layer PCBs for various ECUs that are distributed across the sailing robot. The core of these ECUs is Nucleo U575ZI-Q. All these ECUs are connected to various sensors, and each of these units communicates with CANFD. Hence, various PCBs, with power regulation and communication protocol support, had to be implemented. This included buck converters and high-side switching to make the most of the single 12V power line. Furthermore, to support various sensors, circuitry for UART, I2C, RS232, and CAN-FD protocols with transceivers, level shifters, and controllers had to be implimented. My role also included developing CAD enclosures in SolidWorks, soldering and testing completed enclosures with the physical hardware like sensors, actuators, and facilitating workshops and design reviews to enhance collaboration.
 
-###More information on these PCBs and other work can be found in the UBC Sailbot Folder. Detailed descriptions are given in their respective Readme Files
+*More information on these PCBs and other work can be found in the UBC Sailbot Folder. Detailed descriptions are given in their respective Readme Files*
 
 ### 📷 Images  
 ![Sailbot Placeholder](images/Sailbot.jpg)  
