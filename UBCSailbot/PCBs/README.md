@@ -1,6 +1,9 @@
 # Circuits in PCBs
 
-Each breakout board implements several essential circuits to ensure reliable operation of Sailbot’s electrical system. Below are the key circuits and their purposes:
+Each breakout board implements several essential circuits to ensure the reliable operation of Sailbot’s electrical system. 
+The SAIL V3 has also been implemented in a more organized manner, with multiple schematic pages being used, along with each designator being associated with the page number of the schematic
+
+Below are the key circuits and their purposes:
 
 ---
 
