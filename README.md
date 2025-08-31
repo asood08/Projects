@@ -13,7 +13,8 @@ More information on these PCBs and other work can be found in the UBC Sailbot Fo
 
 ### 📷 Images  
 ![Sailbot Placeholder](images/Sailbot.jpg)  
-![Sailbot PCB Placeholder](images/SAIL_V3_PCB.png)  
+![Sailbot PCB Placeholder](images/PCBS_V2.jpeg)
+![Sailbot PCB Placeholder](images/SAIL_V3_PCB.png)
 ![Sailbot Enclousre Placeholder](images/Wingsail_Enclosure.jpg) 
 
 ---
